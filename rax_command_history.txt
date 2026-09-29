@@ -1,0 +1,440 @@
+[31 August 2026, 10:35:43 PM] hello rex
+[31 August 2026, 10:36:08 PM] current time
+[31 August 2026, 10:36:23 PM] weather in kolkata
+[31 August 2026, 10:36:50 PM] check battery
+[31 August 2026, 10:37:05 PM] system information
+[31 August 2026, 10:37:35 PM] calculate 25 + 25
+[31 August 2026, 10:37:50 PM] remind me in 1 minutes to study
+[31 August 2026, 10:38:07 PM] open youtube
+[31 August 2026, 10:38:22 PM] close microsoft edge
+[31 August 2026, 10:38:38 PM] search for python
+[31 August 2026, 10:38:53 PM] close microsoft edge
+[31 August 2026, 10:39:08 PM] search youtube for kalyani song
+[31 August 2026, 10:39:23 PM] close microsoft edge
+[31 August 2026, 10:39:40 PM] points on maps narula institute of technology
+[31 August 2026, 10:39:59 PM] find on maps narula institute of technology
+[31 August 2026, 10:40:16 PM] close microsoft edge
+[31 August 2026, 10:40:31 PM] take a screenshot
+[31 August 2026, 10:40:49 PM] screenshot folder open screenshot folder
+[31 August 2026, 10:41:08 PM] open screenshot folder
+[31 August 2026, 10:41:25 PM] close microsoft close folder
+[31 August 2026, 10:41:44 PM] volume up
+[31 August 2026, 10:41:59 PM] volume down
+[31 August 2026, 10:42:14 PM] mute
+[31 August 2026, 10:42:28 PM] unmute
+[31 August 2026, 10:42:43 PM] mi online
+[31 August 2026, 10:43:08 PM] check internet
+[31 August 2026, 10:43:22 PM] my ip address
+[31 August 2026, 10:43:42 PM] open task manager
+[31 August 2026, 10:43:58 PM] close task manager
+[31 August 2026, 10:44:17 PM] open settings
+[31 August 2026, 10:44:34 PM] close windows settings
+[31 August 2026, 10:44:54 PM] open control panel
+[31 August 2026, 10:45:10 PM] read clipboard
+[31 August 2026, 10:45:27 PM] set a timer for 30 seconds
+[31 August 2026, 10:45:42 PM] open calculator
+[31 August 2026, 10:45:57 PM] open notepad
+[31 August 2026, 10:46:12 PM] open downloads
+[31 August 2026, 10:46:27 PM] open documents
+[31 August 2026, 10:46:57 PM] lock my pc
+[31 August 2026, 10:47:11 PM] open my pc
+[31 August 2026, 10:47:41 PM] open my pc
+[31 August 2026, 10:48:12 PM] tell me a joke
+[31 August 2026, 10:48:30 PM] show command history
+[31 August 2026, 10:48:46 PM] repeat last command
+[31 August 2026, 10:48:51 PM] show command history
+[31 August 2026, 10:49:07 PM] who is albert einstein
+[31 August 2026, 10:50:03 PM] who is virat kohli
+[31 August 2026, 10:51:00 PM] who is cristiano ronaldo
+[31 August 2026, 10:51:20 PM] who is cristiano ronaldo
+[31 August 2026, 10:51:39 PM] stop
+[31 August 2026, 10:55:19 PM] stop
+[01 September 2026, 11:38:21 AM] open youtube
+[01 September 2026, 11:38:37 AM] close microsoft edge
+[01 September 2026, 11:38:53 AM] tell my my system information
+[01 September 2026, 11:39:24 AM] today's date
+[01 September 2026, 11:39:51 AM] find on maps narula institute of technology
+[01 September 2026, 11:40:09 AM] close microsoft edge
+[01 September 2026, 11:40:25 AM] take a screenshot
+[01 September 2026, 11:40:44 AM] open screenshot
+[01 September 2026, 11:41:04 AM] open screenshot folder
+[01 September 2026, 11:41:21 AM] close file explorer
+[01 September 2026, 11:41:42 AM] volume up
+[01 September 2026, 11:41:58 AM] volume down
+[01 September 2026, 11:42:30 AM] lock my pc
+[01 September 2026, 12:29:55 PM] stop
+[04 September 2026, 11:02:31 PM] open youtube
+[04 September 2026, 11:02:47 PM] close microsoft edge
+[04 September 2026, 11:03:02 PM] set brightness 20%
+[04 September 2026, 11:03:18 PM] screenshot
+[04 September 2026, 11:03:36 PM] what are you
+[04 September 2026, 11:03:53 PM] how are you
+[04 September 2026, 11:04:09 PM] search youtube kalyani song
+[04 September 2026, 11:04:26 PM] close microsoft edge
+[04 September 2026, 11:04:42 PM] set brightness 80%
+[04 September 2026, 11:04:58 PM] joke
+[04 September 2026, 11:05:19 PM] find map on narrowly institute of technology
+[04 September 2026, 11:05:39 PM] find maps india gate
+[04 September 2026, 11:07:21 PM] wake up
+[04 September 2026, 11:07:36 PM] open whatsapp
+[04 September 2026, 11:07:51 PM] close microsoft edge
+[04 September 2026, 11:08:07 PM] weather in kolkata
+[04 September 2026, 11:08:35 PM] tell me about burj khalifa
+[04 September 2026, 11:09:34 PM] tell me about mia khalifa
+[04 September 2026, 11:10:02 PM] tell me about kl rahul
+[04 September 2026, 11:10:28 PM] tell me about lionel messi
+[04 September 2026, 11:11:28 PM] stop
+[04 September 2026, 11:14:11 PM] wake up
+[04 September 2026, 11:14:26 PM] stop
+[04 September 2026, 11:31:33 PM] open whatsapp and aman roommate chat
+[04 September 2026, 11:33:00 PM] wake up
+[04 September 2026, 11:33:15 PM] open whatsapp aman roommate chat
+[04 September 2026, 11:33:47 PM] open aman roommate chat
+[04 September 2026, 11:34:07 PM] open the dora
+[04 September 2026, 11:34:35 PM] open whatsapp and open papa chat
+[04 September 2026, 11:35:06 PM] open ritu 2
+[04 September 2026, 11:35:32 PM] stop
+[05 September 2026, 01:09:26 AM] open whatsapp and open shaswat pratik chat
+[05 September 2026, 01:09:58 AM] open shaswat pratik chat
+[05 September 2026, 01:12:58 AM] wake up
+[05 September 2026, 01:13:14 AM] stop
+[05 September 2026, 01:14:13 AM] open whatsapp and open shaswat pratik chat
+[05 September 2026, 01:14:44 AM] open shaswat pratik chat
+[05 September 2026, 01:15:05 AM] stop
+[05 September 2026, 01:19:21 AM] open whatsapp
+[05 September 2026, 01:19:37 AM] open shaswat pratik chat
+[05 September 2026, 01:20:44 AM] open whatsapp and open shaswat pratik chat
+[05 September 2026, 01:22:18 AM] open whatsapp and open shaswat pratik chat
+[05 September 2026, 01:22:59 AM] open whatsapp
+[05 September 2026, 01:23:14 AM] open shaswat prati
+[05 September 2026, 01:23:41 AM] open shaswat pratik chat
+[05 September 2026, 01:26:04 AM] shaswat pratik chat on whatsapp
+[05 September 2026, 01:26:24 AM] open whatsapp and open shaswat pratik chat
+[05 September 2026, 01:31:36 AM] wake up
+[05 September 2026, 01:31:50 AM] stop
+[05 September 2026, 01:34:11 AM] open whatsapp and open saraswat pratik chat
+[05 September 2026, 01:36:23 AM] open shaswat pratik chat on whatsapp
+[05 September 2026, 01:38:30 AM] open flipkart
+[05 September 2026, 01:39:34 AM] open amazon and search iphone 15
+[05 September 2026, 01:40:12 AM] search saree on meesho
+[05 September 2026, 01:40:35 AM] stop
+[05 September 2026, 10:59:06 AM] open whatsapp and open be alone chat
+[05 September 2026, 11:07:41 AM] open whatsapp and open be alone chat
+[05 September 2026, 11:09:14 AM] open shaswat pratik chat on whatsapp
+[05 September 2026, 11:11:38 AM] open shaswat pratik chat on whatsapp
+[05 September 2026, 11:15:09 AM] wake up
+[05 September 2026, 11:15:24 AM] open flipkart and search nike shoes
+[05 September 2026, 11:15:50 AM] close microsoft edge
+[05 September 2026, 11:16:07 AM] open meesho and search kurti
+[05 September 2026, 11:16:30 AM] open meesho search boys t-shirt
+[05 September 2026, 11:16:56 AM] open amazon and search laptop stand
+[05 September 2026, 11:17:19 AM] close microsoft edge
+[05 September 2026, 11:17:37 AM] hu r u
+[05 September 2026, 11:18:22 AM] set brightness on 80%
+[05 September 2026, 11:18:43 AM] brightness 80%
+[05 September 2026, 11:19:00 AM] stop
+[05 September 2026, 11:21:23 AM] open whatsapp and open naina chat
+[05 September 2026, 11:26:09 AM] open whatsapp and open be alone chat
+[05 September 2026, 11:28:29 AM] open whatsapp and open be alone chat
+[05 September 2026, 11:33:04 AM] wake up
+[05 September 2026, 11:33:19 AM] stop
+[05 September 2026, 11:42:29 AM] open whatsapp
+[05 September 2026, 11:42:49 AM] open shaswat pratik chat
+[05 September 2026, 11:43:14 AM] type message
+[05 September 2026, 11:50:42 AM] open whatsapp
+[05 September 2026, 11:51:04 AM] open b alone chat
+[05 September 2026, 11:51:34 AM] message type message
+[05 September 2026, 11:52:01 AM] type message
+[05 September 2026, 11:53:00 AM] close whatsapp
+[05 September 2026, 11:53:16 AM] open youtube
+[05 September 2026, 11:54:18 AM] open youtube
+[05 September 2026, 11:54:34 AM] close microsoft edge
+[05 September 2026, 11:54:49 AM] open flipkart and search shoes
+[05 September 2026, 11:55:12 AM] what is html
+[05 September 2026, 11:55:32 AM] tell me about virat kohli
+[05 September 2026, 11:56:30 AM] tell me about albert einstein
+[05 September 2026, 11:58:32 AM] wake up
+[05 September 2026, 11:58:47 AM] open whatsapp
+[05 September 2026, 11:59:09 AM] open aman roommate chat
+[05 September 2026, 11:59:41 AM] stop
+[05 September 2026, 12:00:50 PM] increase volume
+[05 September 2026, 12:01:22 PM] brightness 30%
+[05 September 2026, 12:01:38 PM] search youtube kalyani song
+[05 September 2026, 12:01:54 PM] close microsoft edge
+[05 September 2026, 12:02:11 PM] find maps on narula institute of technology
+[05 September 2026, 12:02:31 PM] what r u
+[05 September 2026, 12:06:02 PM] open whatsapp
+[05 September 2026, 12:06:23 PM] open chhotu da
+[05 September 2026, 12:06:54 PM] open youtube
+[05 September 2026, 12:08:04 PM] brightness 80%
+[05 September 2026, 12:08:21 PM] stop
+[05 September 2026, 12:17:07 PM] open whatsapp
+[05 September 2026, 12:17:29 PM] open alok bhai chat
+[05 September 2026, 12:18:00 PM] hi how are you
+[05 September 2026, 12:18:16 PM] close whatsapp
+[05 September 2026, 12:18:34 PM] open whatsapp
+[05 September 2026, 12:18:56 PM] open alok bhai chat
+[05 September 2026, 12:19:26 PM] open bi alone chat
+[05 September 2026, 12:19:56 PM] hi how are you
+[05 September 2026, 12:20:11 PM] close whatsapp
+[05 September 2026, 12:20:29 PM] open myntra and search for t-shirt
+[05 September 2026, 12:20:49 PM] open myntra and search t-shirt
+[05 September 2026, 12:21:10 PM] open flipkart and search t-shirt
+[05 September 2026, 12:21:32 PM] close microsoft edge
+[05 September 2026, 12:21:48 PM] who are you
+[05 September 2026, 12:22:05 PM] tell me a joke
+[05 September 2026, 12:22:23 PM] screenshot
+[05 September 2026, 12:22:41 PM] remind me in 1 minute
+[05 September 2026, 12:23:02 PM] remind me in 1 minutes to study
+[05 September 2026, 12:23:20 PM] weather in kolkata
+[05 September 2026, 12:23:47 PM] weather in mumbai
+[05 September 2026, 12:24:14 PM] current time
+[05 September 2026, 12:24:29 PM] system info
+[05 September 2026, 12:25:00 PM] check my battery
+[05 September 2026, 12:25:17 PM] stop
+[11 September 2026, 11:37:15 AM] who is elon musk
+[11 September 2026, 11:38:04 AM] open whatsapp
+[11 September 2026, 11:38:26 AM] open swastika royal chat
+[11 September 2026, 11:38:58 AM] close whatsapp
+[11 September 2026, 11:39:15 AM] open whatsapp
+[11 September 2026, 11:39:36 AM] close whatsapp
+[11 September 2026, 11:39:52 AM] open whatsapp
+[11 September 2026, 11:40:16 AM] open swastika roy chat
+[11 September 2026, 11:40:46 AM] open instagram chat
+[11 September 2026, 11:41:16 AM] close whatsapp
+[11 September 2026, 11:41:33 AM] open whatsapp and open instagram only chat
+[11 September 2026, 11:42:15 AM] close whatsapp
+[11 September 2026, 11:42:33 AM] open whatsapp
+[11 September 2026, 11:42:54 AM] open ankita ganguly chat
+[11 September 2026, 11:43:25 AM] close whatsapp
+[11 September 2026, 11:43:41 AM] weather in kolkata
+[11 September 2026, 11:44:09 AM] open youtube
+[11 September 2026, 11:44:25 AM] close microsoft edge
+[11 September 2026, 11:46:04 AM] list task
+[11 September 2026, 11:46:31 AM] complete task 1
+[11 September 2026, 11:47:37 AM] find fileman dot 5
+[11 September 2026, 11:49:41 AM] system info
+[11 September 2026, 11:50:12 AM] open amazon and search iphone 15 pro max
+[11 September 2026, 11:50:35 AM] close microsoft edge
+[11 September 2026, 11:50:51 AM] open task manager
+[11 September 2026, 11:51:07 AM] open windows settings
+[11 September 2026, 11:51:23 AM] lock my pc
+[11 September 2026, 11:51:38 AM] open my pc
+[11 September 2026, 11:52:08 AM] put my
+[11 September 2026, 11:52:34 AM] set timer for 5 minutes
+[11 September 2026, 11:52:50 AM] put my pc to sleep
+[11 September 2026, 12:09:37 PM] wake up
+[11 September 2026, 12:09:40 PM] stop
+[11 September 2026, 12:11:06 PM] stop
+[11 September 2026, 12:13:03 PM] stop
+[11 September 2026, 12:25:34 PM] abhay
+[11 September 2026, 12:33:30 PM] wake up
+[11 September 2026, 12:33:33 PM] stop
+[11 September 2026, 12:36:39 PM] open chat gpt
+[11 September 2026, 12:37:00 PM] open
+[11 September 2026, 12:37:27 PM] alok chrome and search chat gpt
+[11 September 2026, 12:37:52 PM] 2
+[11 September 2026, 12:38:15 PM] alok
+[11 September 2026, 12:39:17 PM] alok
+[11 September 2026, 12:39:59 PM] close youtube
+[11 September 2026, 12:40:19 PM] close current tab
+[11 September 2026, 12:41:12 PM] ki hal chaal
+[11 September 2026, 12:41:56 PM] stop
+[11 September 2026, 12:46:28 PM] code lab
+[11 September 2026, 12:46:39 PM] old love
+[11 September 2026, 12:47:23 PM] stop
+[11 September 2026, 12:53:00 PM] ai programming
+[11 September 2026, 12:54:33 PM] wake up
+[11 September 2026, 12:54:48 PM] create python code to check prime number
+[11 September 2026, 12:55:17 PM] print hello world in java
+[11 September 2026, 12:55:58 PM] write a program in java is sum of natural numbers
+[11 September 2026, 12:58:59 PM] create python code to factorial number
+[11 September 2026, 12:59:28 PM] stop
+[11 September 2026, 01:13:12 PM] java
+[11 September 2026, 01:14:17 PM] c plus plus
+[11 September 2026, 01:14:36 PM] open whatsapp
+[11 September 2026, 01:14:59 PM] open ankita ganguly chat
+[11 September 2026, 01:15:31 PM] type message
+[11 September 2026, 01:18:19 PM] type new message
+[11 September 2026, 01:18:46 PM] mera assignment lai hai
+[11 September 2026, 01:19:12 PM] type message
+[11 September 2026, 01:20:30 PM] close whatsapp
+[11 September 2026, 01:20:47 PM] open whatsapp
+[11 September 2026, 01:21:08 PM] close whatsapp
+[11 September 2026, 01:21:25 PM] put my pc in sleep mode
+[11 September 2026, 01:21:46 PM] put my pc to sleep
+[11 September 2026, 06:30:51 PM] wake up
+[11 September 2026, 06:31:07 PM] stop
+[11 September 2026, 07:37:45 PM] wake up
+[11 September 2026, 07:37:59 PM] decrease volume
+[11 September 2026, 07:38:14 PM] decrease volume
+[11 September 2026, 07:38:29 PM] set brightness 90%
+[11 September 2026, 07:38:45 PM] decrease volume
+[11 September 2026, 07:39:00 PM] set brightness 100%
+[11 September 2026, 07:39:17 PM] open whatsapp
+[11 September 2026, 07:39:38 PM] open aman roommate chat
+[11 September 2026, 07:40:08 PM] close whatsapp
+[11 September 2026, 07:41:12 PM] hello
+[11 September 2026, 09:10:07 PM] wake up
+[11 September 2026, 09:10:21 PM] lock my pc
+[11 September 2026, 09:10:51 PM] mute
+[11 September 2026, 09:23:35 PM] wake up
+[11 September 2026, 09:23:50 PM] new unmute
+[11 September 2026, 09:24:19 PM] unmute
+[11 September 2026, 10:29:58 PM] wake up
+[11 September 2026, 10:30:02 PM] stop
+[11 September 2026, 11:23:11 PM] weather in kolkata
+[11 September 2026, 11:23:39 PM] weather in mumbai
+[11 September 2026, 11:24:05 PM] weather in new delhi
+[11 September 2026, 11:24:30 PM] weather in goa
+[11 September 2026, 11:31:29 PM] open whatsapp
+[11 September 2026, 11:31:50 PM] open amman mondal chat
+[11 September 2026, 11:32:20 PM] close whatsapp
+[11 September 2026, 11:33:07 PM] calculate 25 + 25
+[11 September 2026, 11:33:21 PM] calculate 25 into 25
+[11 September 2026, 11:33:41 PM] calculate 25 into 25
+[11 September 2026, 11:34:00 PM] calculate 25 x 25
+[11 September 2026, 11:34:16 PM] calculate 25 / 5
+[11 September 2026, 11:34:31 PM] calculate 25 - 20
+[11 September 2026, 11:34:45 PM] screenshot
+[11 September 2026, 11:35:02 PM] lines on maps kolkata airport
+[11 September 2026, 11:35:27 PM] find on maps kolkata airports
+[11 September 2026, 11:35:42 PM] enclose microsoft edge
+[11 September 2026, 11:36:02 PM] close microsoft edge
+[11 September 2026, 11:36:18 PM] find on maps gis university
+[11 September 2026, 11:36:34 PM] close microsoft edge
+[11 September 2026, 11:36:50 PM] open amazon and search t-shirt
+[11 September 2026, 11:37:11 PM] microsoft is closed
+[11 September 2026, 11:37:31 PM] read my clipboard
+[11 September 2026, 11:37:51 PM] close microsoft edge
+[11 September 2026, 11:38:06 PM] system info
+[11 September 2026, 11:38:37 PM] open file explorer
+[11 September 2026, 11:38:52 PM] close current tab
+[11 September 2026, 11:39:25 PM] current time
+[11 September 2026, 11:39:40 PM] today's date
+[12 September 2026, 02:06:18 AM] wake up
+[12 September 2026, 02:06:33 AM] stop
+[12 September 2026, 12:40:28 PM] open whatsapp
+[12 September 2026, 12:40:50 PM] open aman mandal chat
+[12 September 2026, 12:41:21 PM] close whatsapp
+[12 September 2026, 12:41:38 PM] open whatsapp and open aman mandal chat
+[12 September 2026, 12:42:21 PM] nothing
+[12 September 2026, 12:43:31 PM] tell me about virat kohli
+[12 September 2026, 01:45:29 PM] wake up
+[12 September 2026, 01:45:43 PM] put my pc in sleep mode
+[12 September 2026, 01:47:06 PM] wake up
+[12 September 2026, 01:47:23 PM] lock my
+[12 September 2026, 01:47:43 PM] put my pc to sleep
+[12 September 2026, 06:47:09 PM] wake up
+[12 September 2026, 06:47:24 PM] increase volume
+[12 September 2026, 07:15:03 PM] wake up
+[12 September 2026, 07:15:08 PM] stop
+[17 September 2026, 06:26:26 PM] open whatsapp
+[17 September 2026, 06:26:50 PM] open b alone chat
+[17 September 2026, 06:27:25 PM] close whatsapp
+[17 September 2026, 06:27:43 PM] search amazon for wireless headphones
+[17 September 2026, 06:28:17 PM] system info
+[17 September 2026, 06:28:46 PM] weather in kolkata
+[17 September 2026, 06:29:14 PM] search flipkart for t-shirt
+[17 September 2026, 06:29:32 PM] close microsoft edge
+[17 September 2026, 06:29:50 PM] today's date
+[17 September 2026, 06:30:35 PM] what is html
+[17 September 2026, 06:30:56 PM] lock my pc
+[17 September 2026, 06:31:10 PM] open my pc
+[17 September 2026, 06:31:41 PM] open file explorer
+[17 September 2026, 06:31:56 PM] open downloads
+[17 September 2026, 06:32:11 PM] close current tab
+[17 September 2026, 06:32:29 PM] set timer for 2 minutes
+[17 September 2026, 06:32:44 PM] open task manager
+[17 September 2026, 06:33:00 PM] what is my battery
+[17 September 2026, 06:33:16 PM] tell me about burj khalifa
+[17 September 2026, 06:34:14 PM] open youtube search python tutorial
+[17 September 2026, 06:34:50 PM] tell me about albert einstein
+[17 September 2026, 06:36:21 PM] wake up
+[17 September 2026, 06:36:52 PM] calculate 25 x 4
+[17 September 2026, 06:37:09 PM] calculate 25 + 25
+[17 September 2026, 06:37:26 PM] show history
+[17 September 2026, 06:39:02 PM] search and gpt
+[17 September 2026, 06:39:23 PM] microsoft edge close
+[17 September 2026, 06:39:43 PM] what is python
+[17 September 2026, 06:40:06 PM] take a note
+[17 September 2026, 06:40:30 PM] read my note notes
+[17 September 2026, 06:41:15 PM] increase volume
+[17 September 2026, 06:41:33 PM] brightness 50%
+[17 September 2026, 06:41:51 PM] maximum brightness
+[17 September 2026, 06:42:08 PM] take a screenshot
+[17 September 2026, 06:42:46 PM] capture skin
+[17 September 2026, 06:43:07 PM] capture screen
+[17 September 2026, 06:43:28 PM] hu r u
+[17 September 2026, 06:43:54 PM] write python code to check whether a number is prime
+[17 September 2026, 06:44:37 PM] open be alone chat
+[17 September 2026, 06:45:18 PM] close whatsapp
+[17 September 2026, 06:45:52 PM] find on maps
+[17 September 2026, 06:46:20 PM] find on maps kolkata airport
+[17 September 2026, 06:46:50 PM] find on maps narula institute of technology
+[17 September 2026, 06:47:12 PM] good luggage hello
+[17 September 2026, 07:07:06 PM] wake up
+[17 September 2026, 07:09:54 PM] wake up
+[17 September 2026, 07:10:08 PM] decrease volume
+[17 September 2026, 07:10:22 PM] decrease volume
+[17 September 2026, 07:25:23 PM] wake up
+[17 September 2026, 07:25:37 PM] create a java program to add two numbers
+[17 September 2026, 07:31:26 PM] wake up
+[17 September 2026, 07:31:40 PM] analyse my screen
+[17 September 2026, 07:32:12 PM] analyze my screen
+[17 September 2026, 10:39:15 PM] wake up
+[17 September 2026, 10:39:29 PM] increase volume
+[17 September 2026, 10:39:45 PM] increase volume
+[17 September 2026, 10:40:00 PM] set volume 19
+[17 September 2026, 10:40:24 PM] set volume 90%
+[17 September 2026, 10:40:48 PM] increase volume
+[17 September 2026, 10:47:49 PM] wake up
+[17 September 2026, 10:48:05 PM] prepare my coding workspace
+[17 September 2026, 10:48:41 PM] create python code to check prime numbers
+[17 September 2026, 10:49:10 PM] analyse my screen
+[18 September 2026, 12:24:51 AM] wake up
+[18 September 2026, 12:25:05 AM] stop
+[29 September 2026, 01:23:56 PM] open whatsapp
+[29 September 2026, 01:24:18 PM] open aman mondal chat
+[29 September 2026, 01:24:47 PM] close whatsapp
+[29 September 2026, 01:25:04 PM] what is python
+[29 September 2026, 01:25:27 PM] calculate 25 into 4
+[29 September 2026, 01:25:48 PM] calculate 25 x 4
+[29 September 2026, 01:26:03 PM] search for python tutorials
+[29 September 2026, 01:26:19 PM] close microsoft edge
+[29 September 2026, 01:27:15 PM] close current tab
+[29 September 2026, 01:27:34 PM] weather in kolkata
+[29 September 2026, 01:27:59 PM] what is my battery
+[29 September 2026, 01:28:15 PM] system info
+[29 September 2026, 01:28:45 PM] remind me in 1 minutes to study
+[29 September 2026, 01:29:02 PM] set set timer for 1 minute
+[29 September 2026, 01:29:27 PM] set timer for 1 minutes
+[29 September 2026, 01:29:42 PM] open task manager
+[29 September 2026, 01:30:13 PM] increase volume
+[29 September 2026, 01:30:28 PM] decrease volume
+[29 September 2026, 01:30:42 PM] brightness 50%
+[29 September 2026, 01:30:58 PM] brightness 100%
+[29 September 2026, 01:31:14 PM] internet connection
+[29 September 2026, 01:31:35 PM] take screenshot
+[29 September 2026, 01:32:08 PM] write python code to check whether a number is prime
+[29 September 2026, 01:32:50 PM] open whatsapp
+[29 September 2026, 01:33:11 PM] open rituraj chat
+[29 September 2026, 01:33:41 PM] hay ritu how are you
+[29 September 2026, 01:33:56 PM] close whatsapp
+[29 September 2026, 01:34:37 PM] python story
+[29 September 2026, 01:34:59 PM] search amazon for wireless headphone
+[29 September 2026, 01:35:15 PM] search flipkart for t-shirt
+[29 September 2026, 01:35:30 PM] search meesho for saree
+[29 September 2026, 01:35:46 PM] close microsoft edge
+[29 September 2026, 01:36:02 PM] find on maps narula institute of technology
+[29 September 2026, 01:36:18 PM] microsoft edge
+[29 September 2026, 01:36:38 PM] close microsoft edge
+[29 September 2026, 01:36:53 PM] tell me a joke
+[29 September 2026, 01:37:11 PM] tell me about albert einstein
+[29 September 2026, 06:29:00 PM] wake up
+[29 September 2026, 06:29:18 PM] open whatsapp
+[29 September 2026, 06:29:41 PM] close whatsapp
+[29 September 2026, 06:49:53 PM] wake up
+[29 September 2026, 06:50:08 PM] set volume 50
+[29 September 2026, 06:50:34 PM] decrease volume
+[29 September 2026, 06:50:50 PM] decrease volume
