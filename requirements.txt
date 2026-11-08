@@ -1,0 +1,7 @@
+requests
+SpeechRecognition
+numpy
+sounddevice
+Pillow
+groq
+python-dotenv

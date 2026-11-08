@@ -25,6 +25,10 @@ import numpy as np
 import sounddevice as sd
 
 
+from smart_home import handle_smart_home_command
+from medibridge import handle_medibridge_command
+from shasapp import handle_shasapp_command
+from atom import handle_atom_command
 # ============================================================
 # RAX - CONFIGURATION
 # ============================================================
@@ -4136,7 +4140,20 @@ def execute_command(command):
         return True
     raw = normalized
     c = raw.lower()
+        # JHA Smart Home integration
+    if handle_smart_home_command(raw):
+        return True 
+     # MediBridge project integration
+    if handle_medibridge_command(raw, speak):
+        return True
+    # Sha'sapp integration
+    if handle_shasapp_command(raw, speak):
+        return True
+        # Atom project integration
+    if handle_atom_command(raw, speak):
+        return True
 
+           
     # Friend-style mood-in
     if friend_conversation(raw):
         return True
