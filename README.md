@@ -1,21 +1,20 @@
 # 🤖 RAX – Personal AI Desktop Assistant
 
-RAX is a Python-based personal desktop assistant that allows users to interact through voice and text commands. It helps open applications, access websites, and perform supported tasks.
+RAX is a Python-based personal desktop AI assistant with **7 Tabs, 7 Languages** and **Voice + Text Commands**. It helps open apps, automate WhatsApp, run multi-step Agent Mode workflows, code in 14 languages, and manage daily tasks.
 
 ## ✨ Features
-- 🎙️ Voice Commands
-- ⌨️ Text Commands
-- 🖥️ Desktop GUI
-- 🌐 Website Integration
-- 🏠 Smart Home Project Access
-- 📜 Command History
-- 🤖 AI Assistant Capabilities
+- 🎙️ Voice + ⌨️ Text Commands - Speak or type in English, Hindi, Bengali, Maithili, Bhojpuri, Marathi, French
+- 📑 7 Tabs - Assistant, Agent Mode, Code Lab, System Monitor, Notes, Tasks, Pomodoro
+- 💬 WhatsApp Automation with Confirmation - Safe automation, no wrong message
+- 🤖 Agent Mode - Multi-step workflows in one command
+- 💻 Code Lab - Run code in 14 languages via Judge0 API
+- 🖥️ System Monitoring, Notes, Tasks, Pomodoro Timer
+- 📜 Command History & Memory
 
 ## 🛠️ Tech Stack
-- Python
-- Tkinter
-- Speech Recognition
-- Web Browser Automation
+- Python, Tkinter, Speech Recognition
+- Web Browser Automation, Judge0 API, OCR
+- JSON for Memory & Tasks
 
 ## 🚀 Integrated Projects
 - 🏠 [JHA Smart Home](https://venerable-tapioca-7a11ed.netlify.app/)
@@ -30,18 +29,7 @@ git clone https://github.com/jhaabhay7667-cyber/RAX.git
 cd RAX
 pip install -r requirements.txt
 python main_v4.py
-```
 
-## 👨‍💻 Developer
+👨‍💻 DeveloperAbhay Kumar Jha - BCA Student, Narula Institute of Technology | CGPA: 7.52GitHub: @jhaabhay7667-cyberLinkedIn: My ProfilePortfolio: Visit Website
 
-**Abhay Kumar Jha**
-
-- GitHub: [@jhaabhay7667-cyber](https://github.com/jhaabhay7667-cyber)
-- LinkedIn: [My Profile](https://linkedin.com/in/abhay-jha-950574426)
-- Portfolio: [Visit Website](https://vatsabhay.netlify.app/)
-
-## ⭐ Support
-
-If you like RAX, don't forget to give this repository a star!
-
-**Built with ❤️ by Abhay Kumar Jha**
+⭐ SupportIf you like RAX, don't forget to give this repository a star!Built with ❤️ by Abhay Kumar Jha
